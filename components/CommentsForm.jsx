@@ -1,6 +1,6 @@
 import React from 'react'
 import { useRef,useState,useEffect} from 'react';
-import { submitComment } from '../../services';
+import { submitComment } from '../services';
 
 
 
