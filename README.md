@@ -1,6 +1,6 @@
 # README 
 
-It is a custom blog application with a content management system.It is built with the technologies such as React JS, #NextJS, Tailwind CSS, #GraphQL, and GraphCMS. 
+It is a custom blog application with a content management system.It is built with the technologies React JS, #NextJS, Tailwind CSS, #GraphQL, and GraphCMS. 
 
 # DEMO
 https://my-blogg-7l11t238q-geetikakhurma.vercel.app/
