@@ -1,3 +1,12 @@
+# README 
+
+It is a custom blog application with a content management system.It is built with the technologies such as React JS, #NextJS, Tailwind CSS, #GraphQL, and GraphCMS. 
+
+# DEMO
+https://my-blogg-7l11t238q-geetikakhurma.vercel.app/
+
+![image](https://user-images.githubusercontent.com/43034251/196374993-b11f03dc-7231-4e93-8600-dd21998d6d41.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
