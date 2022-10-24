@@ -1,6 +1,6 @@
 # README 
 
-It is a custom blog application with a content management system.It is built with the new web technologies like React JS, #NextJS, Tailwind CSS, #GraphQL, and Hyhraph (or GraphCMS). In this blog you can read, comment and select blog categories. Data is is stored in Hyhraph and fetecherd using graphql. 
+It is a custom blog application with a content management system.It is built with the new web technologies like React JS, #NextJS, Tailwind CSS, #GraphQL, and Hyhraph (or GraphCMS). In this blog you can read, comment and select blog categories. Data is is stored in Hyhraph and fetched using graphql. 
 
 # DEMO
 https://my-blogg-7l11t238q-geetikakhurma.vercel.app/
